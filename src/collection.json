@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "add-bootstrap-vue": {
+      "description": "Add 'bootstrap-vue'",
+      "factory": "./add-bootstrap-vue"
+    }
+  }
+}
